@@ -1,0 +1,117 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Untitled Document</title>
+<style type="text/css">
+<!--
+.style1 {
+	font-size: 36px;
+	font-style: italic;
+	font-weight: bold;
+}
+.style2 {
+	font-size: 24px;
+	font-style: italic;
+	font-weight: bold;
+}
+body {
+	background-color: #CCFFFF;
+}
+    .style3
+    {
+        width: 32%;
+    }
+-->
+</style>
+</head>
+
+<body>
+<table width="85%" height="392" border="0" bgcolor="#CCFFFF">
+  <tr>
+    <td width="21%" height="65"><img src="onboarding.png" width="293" height="144" /></td>
+    <td width="79%"><div align="center">
+      <p class="style1">Employer</p>
+      <p class="style2">Registeration form  </p>
+    </div></td>
+  </tr>
+  <tr>
+    <td height="319"><img src="manpower-outsourcing.png" width="300" height="300" /></td>
+    <td align="center"><form action="savedb1.php" method="post" enctype="multipart/form-data" name="form1" id="form1">
+      <table width="85%" border="0">
+        <tr>
+          <td class="style3"><strong>Company Name : </strong></td>
+          <td width="70%"><label>
+            <input type="text" name="Cname" required/>
+          </label></td>
+        </tr>
+        <tr>
+          <td class="style3"><strong>Contact Person : </strong></td>
+          <td><input type="text" name="CPerson" /></td>
+        </tr>
+        <tr>
+          <td class="style3"><strong>City:</strong></td>
+          <td><label>
+          <select name="City">
+            <option>Choose your city</option>
+            <option>Amritsar</option>
+            <option>Jalandhar</option>
+            <option>Hushiarpur</option>
+            <option>Moga</option>
+          </select>
+          </label></td>
+        </tr>
+        <tr>
+          <td class="style3"><strong>Email : </strong></td>
+          <td><label>
+          <input type="text" name="Email" required="required"/>
+          </label></td>
+        </tr>
+        <tr>
+          <td class="style3"><strong>Mob. No. : </strong></td>
+          <td><input type="text" name="Mob" required/></td>
+        </tr>
+        <tr>
+          <td class="style3"><strong>Username : </strong></td>
+          <td><input type="text" name="Username" required/></td>
+        </tr>
+        <tr>
+          <td class="style3"><strong>Password : </strong></td>
+          <td><label>
+            <input type="password" name="Password" />
+          </label></td>
+        </tr>
+        <tr>
+          <td class="style3"><strong>Salary : </strong></td>
+          <td><input type="text" name="Salary" required/></td>
+        </tr>
+        <tr>
+          <td class="style3"><strong>Qualification : </strong></td>
+          <td><label>
+            <select name="Qualification">
+              <option>Qualifications</option>
+              <option>P.HD</option>
+              <option>M.Sc</option>
+              <option>B.Sc</option>
+              <option>B.Tech</option>
+            </select>
+          </label></td>
+        </tr>
+        <tr>
+          <td class="style3"><strong>Skills Req : </strong></td>
+          <td><label>
+          <input type="text" name="Skill" />
+          </label></td>
+        </tr>
+      </table>
+        <p align="center">
+          <label>
+          <input type="submit" name="Submit" value="Submit" />
+          </label>
+        </p>
+    </form>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

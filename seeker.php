@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+
+<!-- Mirrored from education-html.themerex.net/events.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 13 Apr 2016 08:51:54 GMT -->
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="icon" type="image/x-icon" href="images/favicon.ico" />
+    <title>Events Calendar | Education Center</title>
+
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&amp;subset=latin%2Clatin-ext&amp;ver=4.3.1" type="text/css" media="all" />
+	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:100,100italic,300,300italic,400,400italic,700,700italic&amp;subset=latin,latin-ext,cyrillic,cyrillic-ext" type="text/css" media="all" />
+	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Love+Ya+Like+A+Sister:400&amp;subset=latin" type="text/css" media="all" />
+	<link rel="stylesheet" href="css/fontello/css/fontello.css" type="text/css" media="all" />
+	
+    <link rel="stylesheet" href="js/rs-plugin/settings.css" type="text/css" media="all" />
+
+    <link rel="stylesheet" href="css/woocommerce/woocommerce-layout.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="css/woocommerce/woocommerce-smallscreen.css" type="text/css" media="only screen and (max-width: 768px)" />
+    <link rel="stylesheet" href="css/woocommerce/woocommerce.css" type="text/css" media="all" />
+
+    <link rel="stylesheet" href="css/style.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="css/shortcodes.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="css/core.animation.css" type="text/css" media="all" />
+    	
+	<link rel="stylesheet" href="css/events-calendar/tribe-events-full.min.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="css/events-calendar/tribe-events-theme.min.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="css/events-calendar/tribe-events-full-mobile.min.css" type="text/css" media="only screen and (max-width: 768px)" />
+    <link rel="stylesheet" href="css/events-calendar/tribe-events-theme-mobile.min.css" type="text/css" media="only screen and (max-width: 768px)" />
+	
+    <link rel="stylesheet" href="css/tribe-style.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="css/skins/skin.css" type="text/css" media="all" />
+	
+	<link rel="stylesheet" href="css/core.portfolio.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="js/mediaelement/mediaelementplayer.min.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="js/mediaelement/wp-mediaelement.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="js/prettyPhoto/css/prettyPhoto.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="js/core.customizer/front.customizer.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="js/core.messages/core.messages.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="js/swiper/idangerous.swiper.min.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="css/custom-style.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="css/responsive.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="css/skins/skin-responsive.css" type="text/css" media="all" />
+
+</head>
+
+<body class="page body_style_wide body_filled article_style_boxed top_panel_style_dark layout_single-standard top_panel_opacity_solid top_panel_above menu_right sidebar_hide">
+    <a id="toc_top" class="sc_anchor" title="To Top" data-description="&lt;i&gt;Back to top&lt;/i&gt; - &lt;br&gt;scroll to top of the page" data-icon="icon-angle-double-up" data-url="" data-separator="yes"></a>
+	<!-- Body -->
+    <div class="body_wrap">
+        <div class="page_wrap">
+            <div class="top_panel_fixed_wrap"></div>
+            <header class="top_panel_wrap bg_tint_dark">
+				<!-- User menu -->
+                <div class="menu_user_wrap">
+                    <div class="content_wrap clearfix">
+                        <div class="menu_user_area menu_user_right menu_user_nav_area">
+                            <ul id="menu_user" class="menu_user_nav">
+                                <li class="menu_user_bookmarks">
+                                    <a href="#" class="bookmarks_show icon-star-1" title="Show bookmarks"></a>
+                                    <ul class="bookmarks_list">
+                                        <li><a href="#" class="bookmarks_add icon-star-empty" title="Add the current page into bookmarks">Add bookmark</a></li>
+                                    </ul>
+                                </li>
+                                <li class="menu_user_controls">
+                                    <a href="#">
+										<span class="user_avatar">
+											<img alt="" src="http://1.gravatar.com/avatar/45e4d63993e55fa97a27d49164bce80f?s=16&amp;d=mm&amp;r=g" srcset="http://1.gravatar.com/avatar/45e4d63993e55fa97a27d49164bce80f?s=32&amp;d=mm&amp;r=g 2x" class="avatar avatar-16 photo" height="16" width="16" />
+										</span>
+										<span class="user_name">Ashu</span></a>
+                                    <ul>
+                                        <li><a href="#" class="icon icon-doc-inv">New post</a></li>
+                                        <li><a href="#" class="icon icon-cog-1">Settings</a></li>
+                                    </ul>
+                                </li>
+                                <li class="menu_user_logout">
+									<a href="#" class="icon icon-logout">Logout</a>
+								</li>
+                            </ul>
+                        </div>
+                        <div class="menu_user_area menu_user_left menu_user_contact_area">Contact us on 09803669945 or 
+                            jobsearch@gmail.com<a href="#"><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></a></div>
+                    </div>
+                </div>
+				<!-- /User menu -->
+				<!-- Main menu -->
+                <div class="menu_main_wrap logo_left">					
+                    <div class="content_wrap clearfix">
+						<!-- Logo -->
+                        <div class="logo">
+                            <a href="index-2.html">
+								<img src="images/logo_dark.png" class="logo_main" alt="">
+								<img src="images/logo_dark.png" class="logo_fixed" alt="">
+							</a>
+                        </div>
+						<!-- Logo -->
+						<!-- Search -->
+                        <div class="search_wrap search_style_regular search_ajax" title="Open/close search form">
+                            <a href="#" class="search_icon icon-search-2"></a>
+                            <div class="search_form_wrap">
+                                <form method="get" class="search_form" action="#">
+                                    <button type="submit" class="search_submit icon-zoom-1" title="Start search"></button>
+                                    <input type="text" class="search_field" placeholder="" value="" name="s" title="" />
+                                </form>
+                            </div>
+                            <div class="search_results widget_area bg_tint_light">
+                                <a class="search_results_close icon-delete-2"></a>
+                                <div class="search_results_content">
+							</div>
+                            </div>
+                        </div>
+						<!-- /Search -->
+							<!-- Navigation -->
+                        <a href="#" class="menu_main_responsive_button icon-menu-1"></a>
+						<nav class="menu_main_nav_area">
+							<ul id="menu_main" class="menu_main_nav">
+								<li class="menu-item menu-item-has-children current-menu-ancestor current-menu-parent"><a href="homepage.html">Homepage</a>
+								</li>
+								<li class="menu-item menu-item-has-children"><a href="#">Industry</a>
+									<ul class="sub-menu">
+										<li class="menu-item"><a href="it-sector.html">IT Sector</a></li>
+										
+										<li class="menu-item"><a href="govtjobs.html">Govt. Jobs</a></li>
+										<li class="menu-item"><a href="hotel.html">Hotel Management</a></li>
+										<li class="menu-item"><a href="hospitality.html">Hospitality</a></li>
+									</ul>
+								</li>
+								<li class="menu-item menu-item-has-children"><a href="interview.html">Employer</a>
+									<ul class="sub-menu">
+										<li class="menu-item"><a href="postjob.html">Post Job</a></li>
+								</li>
+                                </ul>
+                                </li>
+								<li class="menu-item menu-item-has-children">JOB SEEKERS
+									<ul class="sub-menu">
+										<li class="menu-item"><a href="currentopening.html">Current Opening</a></li>
+										<li class="menu-item"><a href="empnews.html">Employment News</a></li>
+                                        <li class="menu-item"><a href="seekerreg.html">Post Resume</a></li>
+									</ul>
+								</li>
+								<li class="menu-item menu-item-has-children"><a href="login.html">login</a></li>
+									
+									
+								<li class="menu-item"><a href="about.html">About</a></li>
+							
+						</nav>
+						<!-- /Navigation -->
+                    </div>
+                </div>
+				<!-- /Main menu -->
+            </header>
+			<!-- Page title -->
+            <div class="page_top_wrap page_top_title page_top_breadcrumbs">
+                <div class="content_wrap">
+                    <div class="breadcrumbs">
+                        <a class="breadcrumbs_item home" href="index-2.html">Home</a>&nbsp;&nbsp; 
+					</div>
+                    <h1 class="page_title">&nbsp;</h1>
+                </div>
+            </div>
+			<!-- /Page title -->
+			<!-- Content -->		
+            <div class="page_content_wrap">
+				<!-- Events calendar -->
+                <div class="content_wrap">
+                    <div class="content">
+                        <article class="post_item post_item_single page">
+                            <div class="post_info">
+                            </div>
+                            <section class="post_content">
+                                <div class="sc_reviews alignright"></div>
+                                <div id="tribe-events" class="tribe-no-js">
+                                    <div id="tribe-events-content-wrapper" class="tribe-clearfix">
+                                        <input type="hidden" id="tribe-events-list-hash" value="">
+                                        <div id="tribe-events-bar">
+                                            <form id="tribe-bar-form" class="tribe-clearfix" name="tribe-bar-form" method="post" action="#">
+                                                <div id="tribe-bar-collapse-toggle">
+                                                    Find Events<span class="tribe-bar-toggle-arrow"></span>
+                                                </div>
+												<div id="tribe-bar-views">
+													<div class="tribe-bar-views-inner tribe-clearfix">
+														<label>View As</label>
+														<ul class="tribe-bar-views-list">
+															<li class="tribe-bar-views-option tribe-bar-views-option-month tribe-bar-active" data-tribe-bar-order="1" data-view="month">   
+																<a href="#"><span class="tribe-icon-month">Month</span></a>
+															</li>
+															<li class="tribe-bar-views-option tribe-bar-views-option-list" data-tribe-bar-order="0" data-view="list">   
+																<a href="#"><span class="tribe-icon-list">List</span></a>
+															</li>
+															<li class="tribe-bar-views-option tribe-bar-views-option-day" data-tribe-bar-order="2" data-view="day">   
+																<a href="#"><span class="tribe-icon-day">Day</span></a>
+															</li>
+														</ul>
+													</div>
+												</div>
+                                                <div class="tribe-bar-filters">
+                                                    <div class="tribe-bar-filters-inner tribe-clearfix">
+                                                        <div class="tribe-bar-date-filter">
+                                                            <label class="label-tribe-bar-date" for="tribe-bar-date">Events In</label>
+                                                            <input type="text" class="pos_rel" name="tribe-bar-date" id="tribe-bar-date" value="" placeholder="Date">
+                                                            <input type="hidden" name="tribe-bar-date-day" id="tribe-bar-date-day" class="tribe-no-param" value=""> 
+														</div>
+                                                        <div class="tribe-bar-search-filter">
+                                                            <label class="label-tribe-bar-search" for="tribe-bar-search">Search</label>
+                                                            <input type="text" name="tribe-bar-search" id="tribe-bar-search" value="" placeholder="Search"> 
+														</div>
+                                                        <div class="tribe-bar-submit">
+                                                            <input class="tribe-events-button tribe-no-param" type="submit" name="submit-bar" value="Find Events" />
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </form>
+                                        </div>
+                                        <div id="tribe-events-content" class="tribe-events-month">
+                                            <h2 class="tribe-events-page-title">Current Jobs Opening 2016</h2>
+                                            <div id="tribe-events-header" data-title="Events for September 2015 | Education Center">
+                                                <h3 class="tribe-events-visuallyhidden">Calendar Month Navigation</h3>
+                                                <ul class="tribe-events-sub-nav">
+                                                    <li class="tribe-events-nav-previous">
+                                                        <a data-month="2015-08" href="#" rel="prev">
+															<span>&laquo;</span> August </a> 
+													</li>
+                                                    <li class="tribe-events-nav-next"></li>
+                                                </ul>
+                                            </div>
+<?php
+$dbhost = 'localhost';
+$dbuser = 'root';
+$dbpass = '';
+$conn = mysql_connect($dbhost, $dbuser, $dbpass) ;
+$dbname = 'university_project';
+mysql_select_db($dbname);
+$query = "SELECT * FROM register";
+$result = mysql_query($query); 
+print " 
+<table align='center' border=\"5\" cellpadding=\"8\" cellspacing=\"5\" style=\"border-collapse: collapse\" bordercolor=\"#c78090\" width=\"100%\" bgcolor=\"lightpink\"><tr><b> 
+<th>name</th> 
+<th>dob</th> 
+<th>state</th> 
+<th>country</th> 
+<th>Mob</th> 
+<th>Pin</th> 
+<th>Skill</th> 
+<th>Salary</th> 
+
+</b></tr>"; 
+while($row = mysql_fetch_array($result, MYSQL_ASSOC)) 
+{ 
+print "<tr>"; 
+echo "<td><a href='phpdetails.php'>".$row['name']." </a></td>";
+
+
+print "<td>" . $row['dob'] . "</td>"; 
+print "<td>" . $row['state'] .  "</td>"; 
+print "<td>" . $row['country'] . "</td>";
+print "<td>" . $row['Mob'] . "</td>";
+print "<td>" . $row['Pin'] . "</td>";
+print "<td>" . $row['Skill'] . "</td>";
+print "<td>" . $row['Salary'] . "</td>";
+print "</tr>"; 
+} 
+print "</table>"; 
+?>
+                                            <div id="tribe-events-footer">
+                                                <h3 class="tribe-events-visuallyhidden">Calendar Month Navigation</h3>
+                                                <ul class="tribe-events-sub-nav">
+                                                    <li class="tribe-events-nav-previous">
+                                                        </li>
+                                                    <li class="tribe-events-nav-next"></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+                        </article>
+                    </div>
+                </div>
+				<!-- /Events calendar -->
+				<!-- Related Posts Section -->
+				<!-- /Related Posts Section -->
+            </div>
+            <!-- /Content -->
+			<!-- Widgets Footer -->
+			<!-- /Widgets Footer -->
+			<!-- Contacts Footer -->
+            <footer class="contacts_wrap bg_tint_dark contacts_style_dark">
+                <div class="content_wrap">
+                    `<div class="sc_socials sc_socials_size_big">
+                        <div class="sc_socials_item">
+							<a href="#" target="_blank" class="social_icons social_facebook">
+								<span class="sc_socials_hover social_facebook"></span>
+							</a>
+						</div>
+                        <div class="sc_socials_item">
+						</div>
+                        <div class="sc_socials_item">
+							<a href="#" target="_blank" class="social_icons social_twitter">
+								<span class="sc_socials_hover social_twitter"></span>
+							</a>
+						</div>
+                        <div class="sc_socials_item">
+							<a href="#" target="_blank" class="social_icons social_gplus">
+								<span class="sc_socials_hover social_gplus"></span>
+							</a>
+						</div>
+                        <div class="sc_socials_item">
+						</div>
+                        <div class="sc_socials_item">
+						</div>
+                    </div>
+                </div>
+            </footer>
+            <!-- /Contacts Footer -->
+			<!-- Copyright -->
+            <div class="copyright_wrap">
+                <div class="content_wrap">
+                    <p>© 2016 All Rights Reserved. <a href="#">Terms of use</a> and <a href="#">Privacy Policy</a></p>
+                </div>
+            </div>
+			<!-- /Copyright -->
+        </div>
+    </div>
+    <!-- /Body -->
+    <a href="#" class="scroll_to_top icon-up-2" title="Scroll to top"></a>
+
+    <div class="custom_html_section"></div>
+		
+	<script type="text/javascript" src="js/jquery/jquery.min.js"></script>
+    <script type="text/javascript" src="js/jquery/jquery-migrate.min.js"></script>
+    <script type="text/javascript" src="js/jquery/ui/core.min.js"></script>
+    <script type="text/javascript" src="js/jquery/ui/widget.min.js"></script>
+    <script type="text/javascript" src="js/jquery/ui/tabs.min.js"></script>
+	<script type="text/javascript" src="js/jquery/ui/accordion.min.js"></script>
+    <script type="text/javascript" src="js/jquery/ui/effect.min.js"></script>
+    <script type="text/javascript" src="js/jquery/ui/effect-fade.min.js"></script>	
+	<script type="text/javascript" src="js/jquery/jquery.blockUI.min.js"></script>
+    <script type="text/javascript" src="js/jquery/jquery.cookie.min.js"></script>	
+	
+	<script type="text/javascript" src="js/global.min.js"></script>    
+    <script type="text/javascript" src="js/core.utils.min.js"></script>
+    <script type="text/javascript" src="js/core.init.min.js"></script>
+    <script type="text/javascript" src="js/shortcodes/shortcodes.min.js"></script>	
+
+    <script type="text/javascript" src="js/superfish.min.js"></script>
+    <script type="text/javascript" src="js/jquery.slidemenu.min.js"></script>
+
+    <script type="text/javascript" src="js/mediaelement/mediaelement-and-player.min.js"></script>
+    <script type="text/javascript" src="js/mediaelement/wp-mediaelement.min.js"></script>
+
+    <script type="text/javascript" src="js/core.messages/core.messages.min.js"></script>
+	
+    <script type="text/javascript" src="js/swiper/idangerous.swiper-2.7.min.js"></script>
+    <script type="text/javascript" src="js/swiper/idangerous.swiper.scrollbar-2.4.min.js"></script>
+	<script type="text/javascript" src="js/jquery.isotope.min.js"></script>
+	<script type="text/javascript" src="js/hover/jquery.hoverdir.min.js"></script>
+	<script type="text/javascript" src="js/prettyPhoto/jquery.prettyPhoto.min.js"></script>		
+    <script type="text/javascript" src="js/diagram/chart.min.js"></script>
+	
+	<script type="text/javascript" src="js/core.customizer/front.customizer.min.js"></script>
+	<script type="text/javascript" src="js/skin.customizer.min.js"></script>
+
+</body>
+
+
+<!-- Mirrored from education-html.themerex.net/events.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 13 Apr 2016 08:52:09 GMT -->
+</html>

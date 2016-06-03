@@ -1,0 +1,84 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Untitled Document</title>
+<style type="text/css">
+<!--
+.style2 {
+	font-size: 24px;
+	font-style: italic;
+	font-weight: bold;
+}
+body {
+	background-color: #CCFFFF;
+}
+    .style3
+    {
+        width: 32%;
+    }
+    -->
+</style>
+</head>
+
+<body>
+<table width="85%" height="392" border="0" bgcolor="#CCFFFF">
+  <tr>
+    <td width="21%" height="65"><img src="onboarding.png" width="293" height="144" /></td>
+    <td width="79%"><div align="center">
+      <p class="style2">Current Openings</p>
+    </div></td>
+  </tr>
+  <tr>
+    <td height="319"><img src="manpower-outsourcing.png" width="300" height="300" /></td>
+    <td align="center"><form action="curr_open.php" method="post" enctype="multipart/form-data" name="form1" id="form1">
+      <table width="85%" border="0">
+        <tr>
+          <td class="style3"><strong>Job Code</strong></td>
+          <td width="70%"><label>
+            <input type="text" name="job" required/>
+          </label></td>
+        </tr>
+        <tr>
+          <td class="style3"><strong>Job Title</strong></td>
+          <td><input type="text" name="title" /></td>
+        </tr>
+        <tr>
+          <td class="style3"><strong>Industry</strong></td>
+          <td><label>
+          <select name="industry">
+            <option>IT</option>
+            <option>Medical</option>
+            <option>Software Developer</option>
+            <option>Education</option>
+            <option>Designer</option>
+            <option>Hotel Management</option>
+          </select>
+          </label></td>
+        </tr>
+        <tr>
+          <td class="style3"><strong>Location</strong></td>
+          <td><label>
+          <input type="text" name="location" required="required"/>
+          </label></td>
+        </tr>
+        <tr>
+          <td class="style3"><strong>Experience</strong></td>
+          <td><input type="text" name="experience" required/></td>
+        </tr>
+        <tr>
+          <td class="style3"><strong>Skills</strong></td>
+          <td><input type="text" name="skill" required/></td>
+        </tr>
+        </table>
+        <p align="center">
+          <label>
+          <input type="submit" name="Submit" value="Submit" />
+          </label>
+        </p>
+    </form>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

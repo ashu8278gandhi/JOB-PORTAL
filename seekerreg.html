@@ -1,0 +1,109 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Untitled Document</title>
+<style type="text/css">
+<!--
+.style1 {
+	font-size: 36px;
+	font-style: italic;
+	font-weight: bold;
+}
+.style2 {
+	font-size: 24px;
+	font-style: italic;
+	font-weight: bold;
+}
+body {
+	background-color: #CCFFFF;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="85%" height="392" border="0" bgcolor="#CCFFFF">
+  <tr>
+    <td width="21%" height="65"><img src="onboarding.png" width="293" height="144" /></td>
+    <td width="79%"><div align="center">
+      <p class="style1">JOB SEEKER</p>
+      <p class="style2">Registeration form  </p>
+    </div></td>
+  </tr>
+  <tr>
+    <td height="319"><img src="manpower-outsourcing.png" width="300" height="300" /></td>
+    <td align="center"><form action="savedb.php" method="post" enctype="multipart/form-data" name="form1" id="form1">
+      <table width="85%" border="0">
+        <tr>
+          <td width="30%"><strong>Name : </strong></td>
+          <td width="70%"><label>
+            <input type="text" name="name" required/>
+          </label></td>
+        </tr>
+        <tr>
+          <td><strong>D.O.B : </strong></td>
+          <td><input type="date"value="2016-01-16" name="dob" required/></td>
+        </tr>
+        <tr>
+          <td><strong>Sate : </strong></td>
+          <td><label>
+            <select name="state" size="1">
+              <option>Choose your state</option>
+              <option>Punjab</option>
+              <option>Haryana</option>
+              <option>Mumbai</option>
+              <option>Delhi</option>
+            </select>
+          </label></td>
+        </tr>
+        <tr>
+          <td><strong>Country : </strong></td>
+          <td><label>
+            <select name="country" size="1">
+              <option>Choose your country</option>
+              <option>India</option>
+              <option>U.S.A</option>
+              <option>Canada</option>
+              <option>Australia</option>
+            </select>
+          </label></td>
+        </tr>
+        <tr>
+          <td><strong>Email : </strong></td>
+          <td><input type="text" name="email" required/></td>
+        </tr>
+        <tr>
+          <td><strong>Mob. No. : </strong></td>
+          <td><input type="text" name="Mob" required/></td>
+        </tr>
+        <tr>
+          <td><strong>Pin Code : </strong></td>
+          <td><input type="text" name="Pin" required/></td>
+        </tr>
+        <tr>
+          <td><strong>Skills : </strong></td>
+          <td><input type="text" name="Skill" required/></td>
+        </tr>
+        <tr>
+          <td><strong>Salary Expectation :</strong> </td>
+          <td><input type="text" name="Salary" /></td>
+        </tr>
+        <tr>
+          <td><strong>Resume : </strong></td>
+          <td><label>
+            <input type="file" name="Resume" required/>
+          </label></td>
+        </tr>
+      </table>
+        <p align="center">
+          <label>
+          <input type="submit" name="Submit" value="Submit" />
+          </label>
+        </p>
+    </form>
+    </td>
+  </tr>
+</table>
+</body>
+</html>
